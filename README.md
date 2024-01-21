@@ -14,4 +14,4 @@
 <img src="https://komarev.com/ghpvc/?username=Agrudi&style=flat-square&color=blue" alt=""/>
 </div>
 
-👋 Hi there! I'm Durga, a dedicated financial professional and data science enthusiast. Currently mastering Computational and Applied Mathematics with a focus on Data Analytics. Experienced Financial Analyst. Proficient in R for data analysis, modeling, and visualization. Let's dive into the world of finance and data together! 💼📈 #DataScience #FinanceEnthusiast
+👋 Hi there! I'm Durga, a dedicated financial professional and data science enthusiast. Currently mastering in Computational and Applied Mathematics with a focus on Data Analytics. Experienced Financial Analyst. Proficient in R for data analysis, modeling, and visualization. Let's dive into the world of finance and data together! 💼📈 #DataScience #FinanceEnthusiast
