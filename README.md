@@ -1,4 +1,4 @@
-### Hello Everyone 😊
+
 
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" Width="150"/>
@@ -14,4 +14,4 @@
 <img src="https://komarev.com/ghpvc/?username=Agrudi&style=flat-square&color=blue" alt=""/>
 </div>
 
-Hello! 👋 I'm Durga, a detail-oriented financial professional and data science enthusiast. Currently pursuing a Master's in Computational and Applied Mathematics with a focus on Data Analytics. Skilled in data analysis, regression modeling, and visualization using R. Let's connect and explore the world of finance and data together! 💼📊
+👋 Hi there! I'm Durga, a dedicated financial professional and data science enthusiast. Currently mastering Computational and Applied Mathematics with a focus on Data Analytics. Experienced Financial Analyst. Proficient in R for data analysis, modeling, and visualization. Let's dive into the world of finance and data together! 💼📈 #DataScience #FinanceEnthusiast
